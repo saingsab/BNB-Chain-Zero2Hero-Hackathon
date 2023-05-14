@@ -1,0 +1,3 @@
+[submodule "gaavei-contract"]
+	path = gaavei-contract
+	url = https://github.com/saingsab/gaavie-contract
