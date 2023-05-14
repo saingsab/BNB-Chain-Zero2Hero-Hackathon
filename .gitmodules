@@ -1,3 +1,6 @@
 [submodule "gaavei-contract"]
 	path = gaavei-contract
 	url = https://github.com/saingsab/gaavie-contract
+[submodule "gaavei-frontend"]
+	path = gaavei-frontend
+	url = https://github.com/iamcombo/Gaavei-NFTs
